@@ -2,14 +2,14 @@
   "strengths": {
     "table": [
       "assertive",
-      "born leader",
+      "a born leader",
       "confident",
       "creative",
       "curious",
       "dependable",
       "fast thinker",
       "generous",
-      "grit",
+      "gritty",
       "high integrity",
       "high self-esteem",
       "honest",
@@ -31,6 +31,6 @@
     "table": ["imaginative", "cheerful", "lively", "", ""]
   },
   "faults": {
-    "table": ["", "", "", "", ""]
+    "table": ["prone to cruelty", "", "", "", ""]
   }
 }
