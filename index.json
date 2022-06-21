@@ -1,0 +1,12 @@
+{
+  "collectionID": "utility-npc",
+  "collectionName": "Utility NPC",
+  "category": "Utility",
+  "isUtility": true,
+  "version": 1,
+  "tags": ["people", "modern"],
+  "tables": {
+    "personality": ["strengths", "aspects", "faults"],
+    "hobby": ["outdoor", "indoor", "all"]
+  }
+}

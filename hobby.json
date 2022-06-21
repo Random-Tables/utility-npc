@@ -1,0 +1,14 @@
+{
+  "outdoor": {
+    "table": ["football", "", "", "", "", "", ""]
+  },
+  "indoor": {
+    "table": ["painting", "", "", "", "", "", "", ""]
+  },
+  "all": {
+    "table": [
+      "{{utility-npc/hobby/outdoor:football}}",
+      "{{utility-npc/hobby/indoor:painting}}"
+    ]
+  }
+}
