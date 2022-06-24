@@ -1,0 +1,60 @@
+{
+  "motivation": {
+    "table": [
+      "a chance for a glorious death",
+      "a hunger for freedom",
+      "a hunger for peace of mind",
+      "a hunger for power",
+      "a hunger for quiet",
+      "a hunger to return to nature",
+      "a lust for exploration",
+      "a need ready against external threats",
+      "a need to be left alone",
+      "a need to find a community",
+      "a need to regain hope",
+      "a noble life",
+      "a pursuit of knowledge",
+      "an easy lie",
+      "faith",
+      "fame",
+      "family traditions",
+      "glory",
+      "gluttony",
+      "having a family",
+      "hedonism",
+      "respect",
+      "saving others",
+      "spiritual forgivness",
+      "vengeance",
+      "wealth"
+    ]
+  },
+  "secret --  and hides ---": {
+    "table": [
+      "a childish belief in the tooth fairy",
+      "a collection of banned books",
+      "a crippling illness",
+      "a dangerous vice",
+      "a deep existential melancholly",
+      "a deeper anger toward children",
+      "a disdain for other beings",
+      "a drug addiction",
+      "a fear of heights",
+      "a fear of the dark",
+      "a fear of the small animals",
+      "a food addiction",
+      "a foreboding birthmark",
+      "a gambling addiction",
+      "a mysterious illness",
+      "a strange collection of morbid objects",
+      "a strange mutation",
+      "a violent past",
+      "an alchohol addiction",
+      "being involved in a smuggling operation",
+      "huge debt",
+      "ill gotten gains",
+      "membership in a secret society",
+      "membership n a secret cult"
+    ]
+  }
+}

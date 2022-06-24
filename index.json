@@ -3,11 +3,12 @@
   "collectionName": "Utility NPC",
   "category": "Utility",
   "isUtility": true,
-  "version": 3,
+  "version": 4,
   "tags": ["people", "modern"],
   "tables": {
     "personality": ["strengths", "aspects", "faults", "all"],
     "hobby": ["outdoor", "indoor", "all"],
-    "physical": ["height", "build", "facial-features", "hair-type", "demeanor"]
+    "physical": ["height", "build", "facial-features", "hair-type", "demeanor"],
+    "motivation": ["motivation", "secret"]
   }
 }

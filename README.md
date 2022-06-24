@@ -21,7 +21,7 @@ Utility library for randomised tables, focusing on NPC details that are era/them
   (spends his free time on carpentry)
 - motivations
 - secret
-  (He is motivated by `motivation` and `secret`)
+  (He is motivated by `motivation` and hides `secret`)
   (He is motivated by wealth and hides a gambling addiction)
 
 ##### history
@@ -37,3 +37,4 @@ Utility library for randomised tables, focusing on NPC details that are era/them
 - https://www.proofreadingservices.com/pages/words-describing-peoples-height
 - https://www.iluenglish.com/describing-people-a-persons-physical-appearance/
 - https://describingwords.io/for/demeanor
+- https://www.chaosgen.com/wfrp/character_motivation
