@@ -5,14 +5,14 @@
       "{{utility-npc/family/siblings:one sister and one brother}}",
       "{{utility-npc/family/kids:two children}}",
       "a partner",
-      "{{utility-npc/family/parents:two parents}}, {{utility-npc/family/siblings:one sister and one brother}} & partner",
+      "{{utility-npc/family/parents:two parents}}, {{utility-npc/family/siblings:one sister and one brother}} and partner",
       "{{utility-npc/family/parents:two parents}}, a partner and {{utility-npc/family/kids:two children}}",
-      "{{utility-npc/family/parents:two parents}} & {{utility-npc/family/siblings:one sister and one brother}}",
-      "{{utility-npc/family/parents:two parents}} & partner",
-      "{{utility-npc/family/parents:two parents}} & {{utility-npc/family/kids:two children}}",
-      "{{utility-npc/family/siblings:one sister and one brother}} & partner",
-      "{{utility-npc/family/siblings:one sister and one brother}} & {{utility-npc/family/kids:two children}}",
-      "a partner & {{utility-npc/family/kids:two children}}"
+      "{{utility-npc/family/parents:two parents}} and {{utility-npc/family/siblings:one sister and one brother}}",
+      "{{utility-npc/family/parents:two parents}} and partner",
+      "{{utility-npc/family/parents:two parents}} and {{utility-npc/family/kids:two children}}",
+      "{{utility-npc/family/siblings:one sister and one brother}} and partner",
+      "{{utility-npc/family/siblings:one sister and one brother}} and {{utility-npc/family/kids:two children}}",
+      "a partner and {{utility-npc/family/kids:two children}}"
     ]
   },
   "parents": {

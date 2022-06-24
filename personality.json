@@ -213,13 +213,13 @@
       "violent",
       "violent",
       "whiny"
-    ],
-    "all": {
-      "table": [
-        "{{utility-npc/personality/strengths:agreeable}}",
-        "{{utility-npc/personality/aspects:aloof}}",
-        "{{utility-npc/personality/faults:arrogant}}"
-      ]
-    }
+    ]
+  },
+  "all": {
+    "table": [
+      "{{utility-npc/personality/strengths:agreeable}}",
+      "{{utility-npc/personality/aspects:aloof}}",
+      "{{utility-npc/personality/faults:arrogant}}"
+    ]
   }
 }
