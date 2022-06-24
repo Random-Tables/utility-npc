@@ -6,10 +6,10 @@ Utility library for randomised tables, focusing on NPC details that are era/them
 
 ##### Physical
 
-- Body Attributes: height, build, hair type
+- Body Attributes: height, build, facial features, hair type
 - Face attributes: demeanour
-  (A `height` `build` with {{color}} eyes, a `facial-features` and `hair-type` {{color}} hair, his face has a `demeanour` character)
-  (A Tall, stocky  with bright green eyes, a crooked nose and wavy blonde hair, his face has a strong character)
+  (he is `height`, `build` with {{color}} eyes, `facial-features` and `hair-type` {{color}} hair, his facial expression is `demeanour`)
+  (he is Tall, stocky  with bright green eyes, a crooked nose and wavy blonde hair, his facial expression is strong in character)
 
 ##### behviour & roles
 
@@ -34,3 +34,6 @@ Utility library for randomised tables, focusing on NPC details that are era/them
 
 - http://members.iinet.net.au/~rene1/realnpc.htm
 - http://angband.oook.cz/steamband/CharacterTraits.pdf
+- https://www.proofreadingservices.com/pages/words-describing-peoples-height
+- https://www.iluenglish.com/describing-people-a-persons-physical-appearance/
+- https://describingwords.io/for/demeanor
