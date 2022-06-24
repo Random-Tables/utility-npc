@@ -6,7 +6,7 @@
   "version": 1,
   "tags": ["people", "modern"],
   "tables": {
-    "personality": ["strengths", "aspects", "faults"],
+    "personality": ["strengths", "aspects", "faults", "all"],
     "hobby": ["outdoor", "indoor", "all"]
   }
 }

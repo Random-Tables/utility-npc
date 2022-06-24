@@ -1,13 +1,13 @@
 {
   "outdoor": {
-    "table": ["football", "", "", "", "", "", ""]
+    "table": ["horticulture", "exercise", "wandering", "star gazing"]
   },
   "indoor": {
-    "table": ["painting", "", "", "", "", "", "", ""]
+    "table": ["painting", "art", "sculpture", "writing", "telling stories", "exploration", "social gatherings"]
   },
   "all": {
     "table": [
-      "{{utility-npc/hobby/outdoor:football}}",
+      "{{utility-npc/hobby/outdoor:horticulture}}",
       "{{utility-npc/hobby/indoor:painting}}"
     ]
   }
