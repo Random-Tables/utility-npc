@@ -9,6 +9,7 @@
     "personality": ["strengths", "aspects", "faults", "all"],
     "hobby": ["outdoor", "indoor", "all"],
     "physical": ["height", "build", "facial-features", "hair-type", "demeanor"],
-    "motivation": ["motivation", "secret"]
+    "motivation": ["motivation", "secret"],
+    "family": ["full", "parents", "siblings", "kids"]
   }
 }

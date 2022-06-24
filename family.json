@@ -1,0 +1,61 @@
+{
+  "full": {
+    "table": [
+      "{{utility-npc/family/parents:two parents}}",
+      "{{utility-npc/family/siblings:one sister and one brother}}",
+      "{{utility-npc/family/kids:two children}}",
+      "a partner",
+      "{{utility-npc/family/parents:two parents}}, {{utility-npc/family/siblings:one sister and one brother}} & partner",
+      "{{utility-npc/family/parents:two parents}}, a partner and {{utility-npc/family/kids:two children}}",
+      "{{utility-npc/family/parents:two parents}} & {{utility-npc/family/siblings:one sister and one brother}}",
+      "{{utility-npc/family/parents:two parents}} & partner",
+      "{{utility-npc/family/parents:two parents}} & {{utility-npc/family/kids:two children}}",
+      "{{utility-npc/family/siblings:one sister and one brother}} & partner",
+      "{{utility-npc/family/siblings:one sister and one brother}} & {{utility-npc/family/kids:two children}}",
+      "a partner & {{utility-npc/family/kids:two children}}"
+    ]
+  },
+  "parents": {
+    "table": ["two parents", "one parent", "no parents"]
+  },
+  "siblings": {
+    "table": [
+      "one brother",
+      "two brothers",
+      "three brothers",
+      "four brothers",
+      "one sister",
+      "two sisters",
+      "three sisters",
+      "four sisters",
+      "one sister and",
+      "one sister and one brother",
+      "one sister and two brothers",
+      "one sister and three brothers",
+      "one sister and four brothers",
+      "two sisters and one brother",
+      "two sisters and two brothers",
+      "two sisters and three brothers",
+      "two sisters and four brothers",
+      "three sisters and one brother",
+      "three sisters and two brothers",
+      "three sisters and three brothers",
+      "four sisters and four brothers",
+      "four sisters and one brother",
+      "four sisters and two brothers",
+      "four sisters and three brothers",
+      "four sisters and four brothers"
+    ]
+  },
+  "kids": {
+    "table": [
+      "one child",
+      "two children",
+      "three children",
+      "four children",
+      "five children",
+      "six children",
+      "seven children"
+    ]
+  }
+}
