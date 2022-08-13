@@ -1,0 +1,16 @@
+{
+  "name": "@random-tables/utility-npc",
+  "version": "1.4.0",
+  "description": "data for random tables - npc's",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Random-Tables/utility-npc.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Random-Tables/utility-npc/issues"
+  },
+  "homepage": "https://github.com/Random-Tables/utility-npc#readme"
+}
