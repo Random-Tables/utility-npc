@@ -5,7 +5,7 @@ const physical = require("./physical.json");
 const motivation = require("./motivation.json");
 const family = require("./family.json");
 
-exports.index = {
+module.exports = {
   ...index,
   tableData: {
     personality,
