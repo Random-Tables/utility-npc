@@ -1,8 +1,11 @@
 {
   "name": "@random-tables/utility-npc",
-  "version": "1.4.1",
+  "version": "1.5.1",
   "description": "data for random tables - npc's",
   "main": "index.js",
+  "scripts": {
+    "prepare": "node scripts/generateCalls"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Random-Tables/utility-npc.git"

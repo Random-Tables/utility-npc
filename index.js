@@ -4,6 +4,7 @@ const hobby = require("./hobby.json");
 const physical = require("./physical.json");
 const motivation = require("./motivation.json");
 const family = require("./family.json");
+const calls = require("./calls.json");
 
 module.exports = {
   ...index,
@@ -14,4 +15,5 @@ module.exports = {
     motivation,
     family,
   },
+  calls,
 };
